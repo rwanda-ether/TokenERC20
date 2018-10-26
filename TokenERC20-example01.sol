@@ -1,4 +1,6 @@
 pragma solidity ^0.4.25;
+// Time-stamp: <Sat Oct 27 07:23:09 JST 2018 hamada>
+// Refs: https://www.ethereum.org/token
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) external; }
 

@@ -1,5 +1,6 @@
 pragma solidity 0.4.25;
-
+// Time-stamp: <Sat Oct 27 07:24:43 JST 2018 hamada>
+// Refs: https://ropsten.etherscan.io/address/0x356a3aec754dfacb1af758435e0bf01837024ba2#code
 
 /**
  * @title Ownable
